@@ -1,7 +1,6 @@
-#Ciclo while "infinito"
+#ciclo while "infinito"
 while True:
-    control = input("¿Quieres salir?")
-
-    if control.lower() == "si":
-        break
+    control= imput("quieres salir?")
+if control = imput "si":
+break
 
